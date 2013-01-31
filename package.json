@@ -1,0 +1,15 @@
+{
+    "name"                          : "mocha-json-file-reporter",
+    "description"                   : "A mocha json file reporter",
+    "author"                        : "Eric LEVEAU <leveau.eric@gmail.com>",
+    "version"                       : "0.0.1",
+    "main"                          : "index.js",
+    "devDependencies": {
+        "mocha":"",
+        "should":""
+    },
+    "scripts": {
+        "test"                      : "mocha"
+    },
+    "engine"                        : "node >= 0.8.0"
+}
