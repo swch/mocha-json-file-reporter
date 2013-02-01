@@ -2,7 +2,7 @@
     "name"                          : "mocha-json-file-reporter",
     "description"                   : "A mocha json file reporter",
     "author"                        : "Eric LEVEAU <leveau.eric@gmail.com>",
-    "version"                       : "0.0.7",
+    "version"                       : "0.0.8",
     "main"                          : "index.js",
     "dependencies": {
         "mocha":""
